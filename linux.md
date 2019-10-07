@@ -55,6 +55,7 @@
 	* The **rm new.txt** command deletes the new.txt file.
 	* The **rm -r folder** command deletes the folder directory and all the files it comtains.
 	* The file/directory we have removed are no longer shown in the current directory.
+
 ![rmcom](/images/rmcom.PNG)
 
 ## history
@@ -62,6 +63,7 @@
   * This is useful when you need to look at the commands you used a while ago. This command shows a list of the commands you used and the order you used them in.
   * Here is an example of the use of this command.
 
+![image](https://www.howtoforge.com/images/command-tutorial/history-basic-usage.png)
 
 
 
