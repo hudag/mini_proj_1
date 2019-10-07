@@ -54,8 +54,14 @@
 	* The **ls** command shows the list of files in the current directory as seen through the first commands output above.
 	* The **rm new.txt** command deletes the new.txt file.
 	* The **rm -r folder** command deletes the folder directory and all the files it comtains.
-
+	* The file/directory we have removed are no longer shown in the current directory.
 ![rmcom](/images/rmcom.PNG)
+
+## history
+  * The history command. Shows the last commands that you have recently used.
+  * This is useful when you need to look at the commands you used a while ago. This command shows a list of the commands you used and the order you used them in.
+  * Here is an example of the use of this command.
+
 
 
 
