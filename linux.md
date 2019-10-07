@@ -75,6 +75,8 @@
    ![path](/images/path.PNG)
 ## Using the tab key to complete file paths
   * To complete a file path without writing it out completely, a user is able to use the tab key. The tab key is like autofill.
+## Using up and down arrow for history
+  * In order to go to through your last commands without typing them you are able to navigate through them using the up and down keys.
 
 
 
