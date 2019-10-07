@@ -15,4 +15,9 @@
   * This command is used to make a new directory so that you can set different permissions for different directories and so that you are able to easily navigate your files.
   * This is the desktop directory of a computer.
 
+ ![direc](/images/Desktop_files.PNG)
+
+		* After using the command **mkdir My_New_Directory**, this is the new directory which includes the new directory we have created.
+
+![direct](/images/Desktop_files_new.PNG)
 
