@@ -49,6 +49,8 @@
   * Removes a file or a directory. Can be used to delete just a file or can delete a whole folder and the files inside it.
   * This can be useful if you no longer need the material you created a file for.
   * Here are some examples of this command being used.
+  	![rmcat](/images/rmcat.PNG)
+
 
 
 
