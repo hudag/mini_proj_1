@@ -1,9 +1,10 @@
 # mini_proj_1
 
-Huda Gohar 
-Muhammad Asim
+# By Huda Gohar & Muhammad Asim
+	
+	* [Linux Tutorial](/linux.md)
 
-* [Git Tutorial](/git.md)
+	* [Git Tutorial](/git.md)
 
 code
 
