@@ -26,12 +26,16 @@
 
    	![cat](/images/cat.PNG)
         
-	* You want to make a copy of the file and name it dog.
+	* You want to make a copy of the file and name it dog
   	* The command used would be **cp cat.txt dog.txt**
   	* Your copied file will be created in your directory shown below
 
   	![dog](/images/dog.PNG)
 ## pwd
-  * Prints the working directory. Shows where you are currently working *the directory*.
+  * Prints the working directory. Shows where you are currently working, *the directory you are in*.
+  * Here is an example of the output of the pwd command.
+  	![pwd](/images/pwd.PNG)
+
+
 
 
