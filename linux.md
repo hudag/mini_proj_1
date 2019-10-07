@@ -70,7 +70,10 @@
   * To reach the home directory you are able to use the **cd ~** command.
 ## File paths in Linux
   * The file path the location of a file on a computer. It shows exactly where the file is located, as in which folder path to follow to reach it.
-  * Here is an example of a file path
+  * Here is an example of a file path, shown in yellow.
+
+   ![path](/images/path.PNG)
+
 
 
 
