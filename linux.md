@@ -73,6 +73,8 @@
   * Here is an example of a file path, shown in yellow.
 
    ![path](/images/path.PNG)
+## Using the tab key to complete file paths
+  * To complete a file path without writing it out completely, a user is able to use the tab key. The tab key is like autofill.
 
 
 
