@@ -49,7 +49,15 @@
   * Removes a file or a directory. Can be used to delete just a file or can delete a whole folder and the files inside it.
   * This can be useful if you no longer need the material you created a file for.
   * Here are some examples of this command being used.
+
   	![rmcat](/images/rmcat.PNG)
+	* The **ls** command shows the list of files in the current directory as seen through the first commands output above.
+	* The **rm new.txt** command deletes the new.txt file.
+	* The **rm -r folder** command deletes the folder directory and all the files it comtains.
+
+![rmcom](/images/rmcom.PNG)
+
+
 
 
 
