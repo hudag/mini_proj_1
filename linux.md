@@ -2,7 +2,7 @@
 
 ## cd
   * Change directory command. Will change the working directory.
-  * This command is used to chnage the direcotry you want to work in. You can add new folders or files in a directory of your choice without the use of a mouse. 
+  * This command is used to change the directory you want to work in. You can add new folders or files in a directory of your choice without the use of a mouse. 
   * Here are some examples of the use of the cd command.
   	![cduse](/cd_use.PNG)
   	* As shown above there are multiple ways to use the cd command.
