@@ -34,7 +34,18 @@
 ## pwd
   * Prints the working directory. Shows where you are currently working, *the directory you are in*.
   * Here is an example of the output of the pwd command.
+
   	![pwd](/images/pwd.PNG)
+## mv
+  * The move command. Moves files or directories from one place to another.
+  * Usually used to move files  between directories but can also be used to rename a file.
+  * To use the mv command to rename a file you would write **mv cat.txt dog.txt**.
+    * This changes the name of the file cat.txt to dog.txt
+  * To use the mv command to move a file you would write **mv cat.txt pets**
+    * The cat.txt file would be moved to the pets directory.
+  * This command can be used in a multitude of ways, another example being **mv *.txt Text_Files**
+    * This command would move all the text files from the directory you are working in to the Text_Files folder.
+
 
 
 
