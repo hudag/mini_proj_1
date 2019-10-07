@@ -64,7 +64,10 @@
   * Here is an example of the use of this command.
 
 ![image](https://www.howtoforge.com/images/command-tutorial/history-basic-usage.png)
-
+## Home directory and ~
+  * The home directory can be accessed through the change directory command, cd. The home directory is shown through the symbol **~** called the tilde.
+  * This is used to navigate to the home directory easily. To check if you are in the home directory you can use the pwd command. If there is a ~ then you are in the home directory.
+  * To reach the home directory you are able to use the **cd ~** command.
 
 
 
