@@ -10,3 +10,9 @@
 		* cd along with the name of the file path can be used to reach any destination directory
 		* cd .. changes the directory to the parent directory
 		* cd ~ changes the directory to the home directory
+## mkdir
+  * Make directory command. Makes a new directory in the current directory you are under.
+  * This command is used to make a new directory so that you can set different permissions for different directories and so that you are able to easily navigate your files.
+  * This is the desktop directory of a computer.
+
+
