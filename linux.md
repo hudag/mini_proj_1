@@ -16,7 +16,12 @@
   * This is the desktop directory of a computer.
 
  	![direc](/images/Desktop_files.PNG)
- 	* After using the command **mkdir My_New_Directory**, this is the new directory which includes the new directory we have created.
+ 	* After using the command **mkdir My_New_Directory**, this is the current directory which includes the new directory we have created.
 
  	![direct](/images/Desktop_files_new.PNG)
+## cp
+  * Copy command. This command copies files or directories.
+  * This makes an exact copy of a file with a different file name. This is useful when you want to have a copy of the original file and create changes on the copy.
+  * For example, you have a text file named cat.txt 
+
 
