@@ -45,6 +45,10 @@
     * The cat.txt file would be moved to the pets directory.
   * This command can be used in a multitude of ways, another example being **mv \*.txt Text_Files**
     * This command would move all the text files from the directory you are working in to the Text_Files folder.
+## rm
+  * Removes a file or a directory. Can be used to delete just a file or can delete a whole folder and the files inside it.
+  * This can be useful if you no longer need the material you created a file for.
+  * Here are some examples of this command being used.
 
 
 
