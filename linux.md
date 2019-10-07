@@ -31,5 +31,7 @@
   	* Your copied file will be created in your directory shown below
 
   	![dog](/images/dog.PNG)
+## pwd
+  * Prints the working directory. Shows where you are currently working *the directory*.
 
 
