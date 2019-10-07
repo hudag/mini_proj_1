@@ -1,4 +1,4 @@
-#Basic Linux Commands
+# Basic Linux Commands
 
 ## cd
-  * Change directory command. It changes the working directory.
+  * Change directory command. Will change the working directory.
