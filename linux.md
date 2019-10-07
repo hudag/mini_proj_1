@@ -43,7 +43,10 @@
     * This changes the name of the file cat.txt to dog.txt
   * To use the mv command to move a file you would write **mv cat.txt pets**
     * The cat.txt file would be moved to the pets directory.
-  * This command can be used in a multitude of ways, another example being **mv *.txt Text_Files**
+  * This command can be used in a multitude of ways, another example being 
+  ''''javascript
+  mv \*.txt Text_Files
+  ''''  
     * This command would move all the text files from the directory you are working in to the Text_Files folder.
 
 
