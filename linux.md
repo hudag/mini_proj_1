@@ -24,11 +24,12 @@
   * This makes an exact copy of a file with a different file name. This is useful when you want to have a copy of the original file and create changes on the copy.
   * For example, you have a text file named cat.txt 
 
-        ![cat](/images/cat.PNG)
-        * You want to make a copy of the file and name it dog.
+   	![cat](/images/cat.PNG)
+        
+	* You want to make a copy of the file and name it dog.
   	* The command used would be **cp cat.txt dog.txt**
   	* Your copied file will be created in your directory shown below
 
-  	![doc](/images/dog.PNG)
+  	![dog](/images/dog.PNG)
 
 
