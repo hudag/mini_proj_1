@@ -2,9 +2,9 @@
 
 # By Huda Gohar & Muhammad Asim
 	
-	* [Linux Tutorial](/linux.md)
+* [Linux Tutorial](/linux.md)
 
-	* [Git Tutorial](/git.md)
+* [Git Tutorial](/git.md)
 
 code
 
