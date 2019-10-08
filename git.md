@@ -8,5 +8,5 @@
 ------------
 ## Clone
 * Git clone is a git command which created a copy of a targeted repository in your local machine
-![Before](/images/BeforeGitClone.PNG)
-![After](/images/AfterGitClone.PNG)
+![Before](/images/BeforeGitClone.png)
+![After](/images/AfterGitClone.png)
