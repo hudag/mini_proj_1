@@ -34,3 +34,6 @@
 ![Merge](/images/Merge.png)
 
 * While merging, conflicts can occure caused by change in same line or in the same content of a file in both branches. You can resolve this issue by either making changes in your local repository or picking one of the two conflicting version and apply the changes.
+------------
+## Checkout
+* The command git checkout lets you switch and select different branches, created by git branch, for commits or merges.
