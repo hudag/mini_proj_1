@@ -13,3 +13,6 @@
 ------------
 ## Fork
 * Fork is similar to clone. A fork is a copy of repository on which we can make changes without changing the original repository. Unlike clone, a forked repository does not exist on your local machine, it would exist on webserver like Githubs webserver.
+------------
+## Branch
+* In git you can create different branches. It can be thought of as a parallel version of the project where you can safely make changes without interfering in other people codebase. Once the development is completed in the diverged branch is can be merged back with the original or master branch.
