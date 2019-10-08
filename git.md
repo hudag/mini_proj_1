@@ -58,4 +58,7 @@
 ------------
 ## Remote Show
 * Remote Show command shows information about the remote repository and its branches. It can show you which branch you would automatically push to while your on a certain branch as well as show you which branch is removed in remote repository or which branch you do not currently have. It can also show you which local branches would merge if you perform a git pull.
+------------
+## Status
+* The command git status shows which files had their contents changes and which of those files are added to stage for the next commit.
 
