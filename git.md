@@ -10,3 +10,6 @@
 * Git clone is a git command which created a copy of a targeted repository in your local machine
 ![Before](/images/BeforeGitClone.png)
 ![After](/images/AfterGitClone.png)
+------------
+## Fork
+* Fork is similar to clone. A fork is a copy of repository on which we can make changes without changing the original repository. Unlike clone, a forked repository does not exist on your local machine, it would exist on webserver like Githubs webserver.
