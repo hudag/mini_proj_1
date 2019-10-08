@@ -12,3 +12,9 @@ To manage the file system the command line is used on Linux with basic commands.
 
 * [Git Tutorial](/git.md)
 
+## Changelog
+
+- [x] Linux Command Completed by Huda Gohar
+- [x] Vim section Completed by Huda Gohar
+- [x] Git commands section Completed by Muhammad Asim
+- [x] gitFlow section Completed by Muhammad Asim
