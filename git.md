@@ -1,4 +1,4 @@
-#Git Tutorial
+# Tutorial & gitFlow
 
 ## Repository
 * A repository is a file location where you store all the files that relate to your project.
