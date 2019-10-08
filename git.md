@@ -6,3 +6,5 @@
 * - **Remote Repository: ** A remote repository is located in a remote location ie the web. A good example of remote repository is Github.
 
 ------------
+## Clone
+* Git clone is a git command which created a copy of a targeted repository in your local machine
