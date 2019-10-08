@@ -65,12 +65,12 @@
 ## Master Branch
 * Master branch in a permanent main working branch. Every time you commit, the master branch pointer moves forward automatically. All other branches such as Delopment and/or bug fix branch eventually end up merging with the master branch as the project comes to an end is ready to be deployed and released.
 ------------
-#####Now that we are familiar with all the terms, lets see how gitFlow works :)
+##### Now that we are familiar with all the terms, lets see how gitFlow works :)
 ------------
 
-#gitFlow
+# gitFlow
 
-#Benefits
+# Benefits
 ## Parallel Development
 * One of the great things about GitFlow is that it makes parallel development very easy, by isolating new development from finished work. New development (such as features and non-emergency bug fixes) is done in feature branches, and is only merged back into main body of code when we are sure all the features are good and tested that the code is ready for release. You can work on different tasks by creating multiple branches.
 
