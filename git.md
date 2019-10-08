@@ -111,4 +111,5 @@
 **Summary:** Multiple branches are created off of the Master branch, some for features and some for bug fix and such. These other branches are also split into multiple branches such as, planned feature and future features have different branches. As we get closer to the release the branches start to merge, features are tested and released, and bug fixes are implemented. In the end these Branches merge with the Master branch for the final release.
 ------------
 
- [for more info click here](http://https://nvie.com/posts/a-successful-git-branching-model/ "for more info click here")
+ [for more info click here](https://nvie.com/posts/a-successful-git-branching-model/)
+
