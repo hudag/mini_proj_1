@@ -43,3 +43,9 @@
 
 ![Before](/images/BeforePush.png)
 ![After](/images/AfterPush.png)
+------------
+## Pull
+* The git pull command downloaded content from the remote repository and updates the local repository and also merges them. The pull command is a combination of git fetch(download data from remote repository) and git merge.
+
+![Before](/images/BeforePull.png)
+![After](/images/AfterPull.png)
