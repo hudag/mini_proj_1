@@ -37,3 +37,9 @@
 ------------
 ## Checkout
 * The command git checkout lets you switch and select different branches, created by git branch, for commits or merges.
+------------
+## Push
+* The push command is used to upload contents of your local repository to a remote repository along with the commits. using the git push command your commit and changes are uploaded to Github
+
+![Before](/images/BeforePush.png)
+![After](/images/AfterPush.png)
