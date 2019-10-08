@@ -23,5 +23,11 @@
 * A commit is a change in a file or set of files. Git detects the change through a unique id or a hash. Commit keeps track of what changed and by who along with a message that summarizes the changes.
 ![Before](/images/BeforeGitClone.png)
 
--**git commit -m "Feature 2 added"**
+**git commit -m "Feature 2 added"**
 ![After](/images/AfterGitClone.png)
+------------
+## Merge
+* In git, the merge command lets you combine 2 branches and integrate them into a single branch, applying changes from both branches.
+![Merge](/images/Merge.png)
+
+* While merging, conflicts can occure caused by change in same line or in the same content of a file in both branches. You can resolve this issue by either making changes in your local repository or picking one of the two conflicting version and apply the changes.
