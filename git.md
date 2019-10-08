@@ -16,3 +16,5 @@
 ------------
 ## Branch
 * In git you can create different branches. It can be thought of as a parallel version of the project where you can safely make changes without interfering in other people codebase. Once the development is completed in the diverged branch is can be merged back with the original or master branch.
+![After](/images/Branch.png)
+* As you can see in the image, B2 is a different branch and master is different.
