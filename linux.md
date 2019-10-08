@@ -64,7 +64,21 @@
   * Here is an example of the use of this command.
 
 ![image](https://www.howtoforge.com/images/command-tutorial/history-basic-usage.png)
+## Home directory and ~
+  * The home directory can be accessed through the change directory command, cd. The home directory is shown through the symbol **~** called the tilde.
+  * This is used to navigate to the home directory easily. To check if you are in the home directory you can use the pwd command. If there is a ~ then you are in the home directory.
+  * To reach the home directory you are able to use the **cd ~** command.
+## File paths in Linux
+  * The file path the location of a file on a computer. It shows exactly where the file is located, as in which folder path to follow to reach it.
+  * Here is an example of a file path, shown in yellow.
 
+   ![path](/images/path.PNG)
+## Using the tab key to complete file paths
+  * To complete a file path without writing it out completely, a user is able to use the tab key. 
+  * The tab key is similar to autocomplete. It will match to similar files that start with the same letters.
+## Using up and down arrow for history
+  * In order to go to through your last commands without typing them you are able to navigate through them using the up and down keys.
+  * This is useful when trying to reuse your last command without having to retype it. 
 
 
 
