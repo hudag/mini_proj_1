@@ -10,7 +10,7 @@ To create files in the file system you have to create and edit files. This is do
 
 To manage the file system the command line is used on Linux with basic commands. To see some of the most basic Linux commands to help manage your file systems use the [Basic Linux Commands Page](/linux.md)
 
-* [Git Tutorial](/git.md)
+* [Git Tutorial & gitFlow](/git.md)
 
 ## Changelog
 
