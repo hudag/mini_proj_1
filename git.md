@@ -61,4 +61,7 @@
 ------------
 ## Status
 * The command git status shows which files had their contents changes and which of those files are added to stage for the next commit.
+------------
+## Master Branch
+* Master branch in a permanent main working branch. Every time you commit, the master branch pointer moves forward automatically. All other branches such as Delopment and/or bug fix branch eventually end up merging with the master branch as the project comes to an end is ready to be deployed and released.
 
