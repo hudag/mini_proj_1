@@ -49,3 +49,6 @@
 
 ![Before](/images/BeforePull.png)
 ![After](/images/AfterPull.png)
+------------
+## Remote Add
+* The remote add command creates a new remote repositoy so you dont have to clone before you start commiting and pushing. Example: You start in your local machine, create a new repository (on Github) using remote add, commit and push.
