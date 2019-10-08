@@ -21,3 +21,6 @@
 ------------
 ## Commit
 * A commit is a change in a file or set of files. Git detects the change through a unique id or a hash. Commit keeps track of what changed and by who along with a message that summarizes the changes.
+![Before](/images/BeforeGitClone.png)
+**git commit -m "Feature 2 added"**
+![After](/images/AfterGitClone.png)
