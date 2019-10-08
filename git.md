@@ -55,3 +55,7 @@
 ------------
 ## Remote Remove
 * The git remote rm command removes the remote repository and its references from your local repository. It does not delete the remote repository from the server.
+------------
+## Remote Show
+* Remote Show command shows information about the remote repository and its branches. It can show you which branch you would automatically push to while your on a certain branch as well as show you which branch is removed in remote repository or which branch you do not currently have. It can also show you which local branches would merge if you perform a git pull.
+
