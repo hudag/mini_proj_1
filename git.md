@@ -52,3 +52,6 @@
 ------------
 ## Remote Add
 * The remote add command creates a new remote repositoy so you dont have to clone before you start commiting and pushing. Example: You start in your local machine, create a new repository (on Github) using remote add, commit and push.
+------------
+## Remote Remove
+* The git remote rm command removes the remote repository and its references from your local repository. It does not delete the remote repository from the server.
