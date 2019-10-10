@@ -85,7 +85,7 @@
 
 ------------
 
-# Procedure
+# Procedure with picture examples
 1. New development (new features, non-emergency bug fixes) are built in feature branches.
 
 ![Step1](/images/GitFlowFeatureBranches1.png) 
@@ -94,7 +94,7 @@
 
 ![Step2](/images/GitFlowDevelopBranch2.png) 
 
-3. When it is time to make a release, a release branch is created off of develop.
+3. When it is time to make a release, a new branch is created called release which is created off of develop.
 
 ![Step3](/images/GitFlowReleaseBranch3.png) 
 
@@ -102,7 +102,7 @@
 
 ![Step4](/images/GitFlowMasterBranch4.png) 
 
-5. Hotfix branches are used to create emergency fixes.
+5. Hotfix branches are used to create emergency changes which include fixes for bugs.
 
 ![Step4](/images/GitFlowHotfixBranch5.png) 
 
@@ -111,5 +111,5 @@
 **Summary:** Multiple branches are created off of the Master branch, some for features and some for bug fix and such. These other branches are also split into multiple branches such as, planned feature and future features have different branches. As we get closer to the release the branches start to merge, features are tested and released, and bug fixes are implemented. In the end these Branches merge with the Master branch for the final release. Git flow made the transition easier and smoother. Developers are easily able to collaborate with each other and keep up with each others changes and make great progress in an efficient manner.
 ------------
 
- [for more info click here](https://nvie.com/posts/a-successful-git-branching-model/)
+[for more info click here on gitFlow](https://nvie.com/posts/a-successful-git-branching-model/)
 
