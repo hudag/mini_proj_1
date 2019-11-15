@@ -13,3 +13,10 @@ To manage the file system the command line is used on Linux with basic commands.
 To get more familiar with Github use this Tutorial [Git Tutorial](/git.md)
 
 To look at Mini_Proj_2 terms please visit this page [Mini_Proj_2 Terms](/mini_proj_2Terms.md)
+
+## Changelog
+
+- [x] Linux Command Completed by Huda Gohar
+- [x] Vim section Completed by Huda Gohar
+- [x] Git commands section Completed by Muhammad Asim
+- [x] gitFlow section Completed by Muhammad Asim
