@@ -7,5 +7,5 @@
     
   * Here is an example of the use of the for loop with the proper use of whitepace.
 
-  ![forloop](/images/forloop.PNG)
+  ![forloop](/images/forloop.jpg)
 
