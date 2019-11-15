@@ -7,5 +7,10 @@
     
   * Here is an example of the use of the for loop with the proper use of whitepace.
 
-  ![forloop](/images/forloop.jpg)
+      ![forloop](/images/forloop.jpg)
+
+## Don't Repeat Yourself
+  * This is a practice that aims to make sure a programmer does not repeat code, repition of code is wasteful. It reduces the repition of software patterns. 
+    * Here is an example of using/not using DRY programming practices.
+      ![dry](/images/dry.PNG)
 
