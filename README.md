@@ -12,7 +12,7 @@ To manage the file system the command line is used on Linux with basic commands.
 
 To get more familiar with Github use this Tutorial [Git Tutorial](/git.md)
 
-To look at Mini_Proj_2 terms please visit this page [Mini_Proj_2 Terms](/mini_proj_2Terms.md)
+To look at Mini_Proj_2 terms please visit this page [Mini_Proj_2 Terms](/Mini_Proj_2Terms.md)
 
 ## Changelog
 
