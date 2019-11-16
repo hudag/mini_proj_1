@@ -106,3 +106,6 @@
 
 ![extend](/images/extend.PNG)
 
+## CSV Files
+* A Comma Separated Values (CSV) file is a plain text file that contains a list of data
+![csv](/images/csv.PNG)
