@@ -69,7 +69,20 @@
   * For example this is an expection error **ZeroDivisionError** when you try to divide by 0.
 
 ## Unit Test
-  *
+  * The first level of software testing where the smallest testable parts of a software are tested. This is used to validate that each unit of the software performs as designed.
+  * An example of a Unit Test
+  ```python
+import unittest 
+  
+class SimpleTest(unittest.TestCase): 
+  
+    # Returns True or False.  
+    def test(self):         
+        self.assertTrue(True) 
+  
+if __name__ == '__main__': 
+    unittest.main() 
+```
 
 
 
