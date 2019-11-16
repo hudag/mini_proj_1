@@ -90,6 +90,10 @@
         ![def](/images/defc.PNG)
         ![para](/images/parc.PNG)
 
+## Factory
+  * Factory method is a creational design pattern which solves the problem of creating product objects without specifying their concrete classes. Factory Method defines a method, which should be used for creating objects instead of direct constructor call (new operator).
+  * An example of how it works:
+      ![fac](/images/fac.PNG)
 
 
 
