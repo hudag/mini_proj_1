@@ -70,19 +70,26 @@
 
 ## Unit Test
   * The first level of software testing where the smallest testable parts of a software are tested. This is used to validate that each unit of the software performs as designed.
-  * An example of a Unit Test
-  ```python
-import unittest 
-  
-class SimpleTest(unittest.TestCase): 
-  
-    # Returns True or False.  
-    def test(self):         
-        self.assertTrue(True) 
-  
-if __name__ == '__main__': 
-    unittest.main() 
-```
+  * An example of a Unit Test in Python
+      ```python
+      import unittest 
+        
+      class SimpleTest(unittest.TestCase): 
+        
+          # Returns True or False.  
+          def test(self):         
+              self.assertTrue(True) 
+        
+      if __name__ == '__main__': 
+          unittest.main() 
+      ```
+
+## Constructor
+  * A constructor is a special kind of method that Python calls when it instantiates an object using the definitions found in your class. Python relies on the constructor to perform tasks such as initializing (assigning values to) any instance variables that the object will need when it starts.
+  * Here are examples of 2 types of constructors
+        ![def](/images/defc.PNG)
+        ![para](/images/parc.PNG)
+
 
 
 
