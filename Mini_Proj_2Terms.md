@@ -52,4 +52,8 @@
   * Objects are the basic run-time entities in an object-oriented system. They may represent a person, a place, a bank account, a table of data or any item that the program must handle. When a program is executed the objects interact by sending messages to one another. They includ eattributes and methods.
   * For example to make an object you would do **p1 = MyClass()**
 
+## Static
+  * When a variable is declared as static, then a single copy of variable is created and shared among all objects at class level. Static variables are, essentially, global variables. All instances of the class share the same static variable.
+  * The most common example of this is: **public static void main(String[] args){}** as seen in java.
+  * In Python anything that you declare is a static variable like **f=0** in a class.
 
