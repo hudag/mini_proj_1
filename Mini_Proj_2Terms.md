@@ -57,3 +57,6 @@
   * The most common example of this is: **public static void main(String[] args){}** as seen in java.
   * In Python anything that you declare is a static variable like **f=0** in a class.
 
+## Property / Attribute
+  * Attributes are described by data variables for example like name, age, height. 
+  * Properties are special kind of attributes which have getter, setter and delete methods like get, set and delete methods. ... In Python, you can define getters, setters, and delete methods with the property function.
