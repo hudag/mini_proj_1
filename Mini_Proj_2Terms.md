@@ -101,5 +101,8 @@
       ![dec](/images/dec.PNG)
 
 
+## Extend Class 
+* Means to add a new methods and not change the existing one. Makes it more functional, it can be done by having a child class. 
 
+![extend](/images/extend.PNG)
 
