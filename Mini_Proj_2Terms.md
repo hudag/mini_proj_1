@@ -106,6 +106,12 @@
 
 ![extend](/images/extend.PNG)
 
+
 ## CSV Files
 * A Comma Separated Values (CSV) file is a plain text file that contains a list of data
 ![csv](/images/csv.PNG)
+
+
+## Reading Files
+* Python allows you to read, write, and delete files. By being able to read a file you can load in the data to your specific program. You can then work with the data any way you want. It is a powerful method to use.
+![read](/images/read.PNG)
