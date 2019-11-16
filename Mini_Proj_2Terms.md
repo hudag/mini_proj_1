@@ -60,3 +60,11 @@
 ## Property / Attribute
   * Attributes are described by data variables for example like name, age, height. 
   * Properties are special kind of attributes which have getter, setter and delete methods like get, set and delete methods. ... In Python, you can define getters, setters, and delete methods with the property function.
+
+## Method
+  * A method is a function that “belongs to” an object. (In Python, the term method is not unique to class instances: other object types can have methods as well. For example, list objects have methods called append, insert, remove, sort, and so on.
+
+
+
+
+
