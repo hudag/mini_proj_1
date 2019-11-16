@@ -64,7 +64,9 @@
 ## Method
   * A method is a function that “belongs to” an object. (In Python, the term method is not unique to class instances: other object types can have methods as well. For example, list objects have methods called append, insert, remove, sort, and so on.
 
-
+## Exception
+  * An exception is an event, which occurs during the execution of a program that disrupts the normal flow of the program's instructions. In general, when a Python script encounters a situation that it cannot cope with, it raises an exception. An exception is a Python object that represents an error.
+  * For example this is an expection error **ZeroDivisionError** when you try to divide by 0.
 
 
 
