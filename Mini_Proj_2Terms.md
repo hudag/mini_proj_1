@@ -45,7 +45,11 @@
       * Template Method - Defines the skeleton of an algorithm as an abstract class, allowing its sub-classes to provide concrete behavior.
       * Visitor - Separates an algorithm from an object structure by moving the hierarchy of methods into one object.
 ## Class
-  * A class is a code template for creating objects. In python a class is created by the keyword class .
+  * A class is a code template for creating objects. In python a class is created by the keyword class. A bluebring for an object.
   * For example to make a class you would do **class Name:**
+
+## Object
+  * Objects are the basic run-time entities in an object-oriented system. They may represent a person, a place, a bank account, a table of data or any item that the program must handle. When a program is executed the objects interact by sending messages to one another. They includ eattributes and methods.
+  * For example to make an object you would do **p1 = MyClass()**
 
 
